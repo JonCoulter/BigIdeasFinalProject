@@ -13,4 +13,8 @@ City of Pittsburgh Trees - https://data.wprdc.org/dataset/city-trees
 
 # Individual Analysis Notebooks
 Sruthi Malineni - Sruthi_Personal.ipynb \
+<<<<<<< HEAD
 Jonathan Coulter - Jonathan_Personal.ipynb
+=======
+Jonathan Coulter - Jonathan_Persnal.ipynb
+>>>>>>> a602ef6935084341106d25bac9cd5fc73c670293
